@@ -49,3 +49,6 @@ Power BI Desktop
 Microsoft Excel
 
 Data Cleaning & Modeling
+
+Sarthak Kashyap
+Power BI | Excel | Data Analytics
